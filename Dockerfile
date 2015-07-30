@@ -22,8 +22,6 @@ RUN \
   git \
   rsync \
   m4 \
-  qemu \
-  qemu-system-x86 \
   python-pexpect \
   bash \
   rsync
