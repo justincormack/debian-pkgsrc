@@ -19,6 +19,7 @@ RUN \
   ncurses-dev \
   file \
   wget \
+  curl \
   git \
   rsync \
   m4 \
