@@ -9,4 +9,4 @@ bmake
 bmake install
 ```
 
-You can then do `make package` to make a binary package. 
+You can then do `bmake package` to make a binary package. 
