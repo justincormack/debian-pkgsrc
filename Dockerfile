@@ -25,6 +25,7 @@ RUN \
   m4 \
   python-pexpect \
   bash \
+  vim \
   rsync
 
 RUN \
